@@ -1,0 +1,28 @@
+name: KriptoN kitchensink
+favicon: null
+layout_spectrum: 0.07167894090525806
+typography_spectrum: 0.3131560022011399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9495955761522055
+  lightness: 0.10298318043351173
+  saturation: 0.018913151463493705
+  rhythmicContrast: 0.8970289311837405
+purpose: []
