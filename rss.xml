@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KriptoN kitchensink]]></title>
+        <description><![CDATA[KriptoN kitchensink]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 14:20:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creating Color Schemes with LESS Color Functions - Envato Tuts+ Web Design Tutorial]]></title>
+            <description><![CDATA[<article><h1>Creating Color Schemes with LESS Color Functions - Envato Tuts+ Web Design Tutorial</h1><p>LESS provides a handful of functions which make defining and manipulating colors super easy. In this tutorial we are going to walk through a number of them, helping you control colors, produce better color pairings and keep them organized. | Difficulty: Intermediate; Length: Medium; Tags: LESS, Color Theory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2118c8ce8ec21870e50d642ac1edbad9cabd1daa.jpg"></article>]]></description>
+            <link>http://webdesign.tutsplus.com/tutorials/creating-color-schemes-with-less-color-functions--cms-23668</link>
+            <guid isPermaLink="false">bb52d1fa-9031-4500-904e-4cac7550beeb</guid>
+            <pubDate>Tue, 22 Mar 2016 14:20:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
